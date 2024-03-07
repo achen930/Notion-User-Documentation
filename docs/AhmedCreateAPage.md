@@ -64,13 +64,13 @@ Notion homepage
 ## Templates
 * Like Ai, If you have no clue on what you want your page to look like or you want a specific layout, you can access already created pages that notion offers.
 
-6. Below, the import buttton, left-click on the templates button 
+6. Below, the import buttton, left-click on the templates button, then select the template you want.
+![TemplateButton](/docs/Assets/CreateAPage.png)
+![Templates](/docs/Assets/Templates.png)
 
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+## Empty Page
 7. Empty Page (optional)
-* Additionally, if you want to create an empty page, right under the name of the page there is an option to leave the page blank. 
+7. Optionally, if you want to create an empty page, right under the name of the page, click on "Empty Page"
 
 
 ![drawing](https://docs.google.com/drawings/d/12345/export/png)
@@ -78,7 +78,7 @@ Notion homepage
 * Another feature of creating page Icons. Right on top of the name of the page you can add some icons to define a page, and enhance the creativity of the page. 
 
 
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
+![drawing](https://docs.google.com/drawings/d/12345/export/png) 
 9. Cover/ Comments (optional)
 * Additionally, in creating a page, you have the option to add a cover on the top of the page and have a comment about the page right under the name. ‘
   
