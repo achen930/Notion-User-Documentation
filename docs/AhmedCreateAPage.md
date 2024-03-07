@@ -19,33 +19,48 @@ Notion homepage
 
 ## Creating a page
 
-*Once you have successfully logged into Notion, 
+*Once you have successfully logged into Notion, you can now create a page.
 
-2. Creating a page
-* On  the sidebar there should be a button that you can click to create
+2. Click "New Page" located on the sidebar in the left side of the Notion homepage.
 
-
-
-
-
-3. Naming your page
-* On the top of your newly created page, there is a space where you can name your page whatever you want.
+![Sidebar](/docs/Assets/SideBar.png)
 
 
 
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-4. AI writing
+
+## Naming your page
+* Now that you have clicked the new page, you can customize your new page. Firstly, we would recommend you
+  to name your page for less disorganization
+
+3. Left-click on untitled box, and name your Notion page
+
+![Naming a page](/docs/Assets/CreateAPage.png)
+
+
+## Customization Features For Creating A Page
+* Now that you know the basic outline of creating a page, In order for the page to be totally complete, you need to customize the page based on your preferences.
+
+* Below are 5 customization features that are directly related into creating a page:
+
+  
+## AI writing
 * If you do not have any idea what to write on this new page, or you want to have a specific layout, the Ai tool is a perfect way to get started creating a new page. 
 
+4. Under the name of the page, click "Start Writing with AI".
+
+![AI Writing](/docs/Assets/CreateAPage.png)
 
 
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-5. Import
+
+## Import
 * When creating a page you can import data from other apps like trello, csv, google docs, and word
+* Importing files are important for storing your data in a reliable page.
+
+6. Click the import button under the "Add New". Then Select the app you would like to import from.
+![Import](/docs/Assets/CreateAPage.png)
+![Import Files](/docs/Assets/ImportFiles.png)
 
 
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
 6. Templates
 * Like Ai, If you have no clue on what you want your page to look like or you want a specific layout, you can access already created pages that notion offers
 
