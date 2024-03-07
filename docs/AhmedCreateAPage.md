@@ -70,24 +70,24 @@ Notion homepage
 
 ## Empty Page
 * Optionally, If you want a simple empty page with nothinng on it, you can create one in Notion.
-7. Right under the name of the page, click on "Empty Page"./
-![Empty Page Button](docs/Assets/CreateAPage.png)
+7. Right under the name of the page, click on "Empty Page".
+![Empty Page Button](/docs/Assets/CreateAPage.png)
 ![Empty Page](/docs/Assets/EmptyPage.png)
 
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-8. Icons
-* Another feature of creating page Icons. Right on top of the name of the page you can add some icons to define a page, and enhance the creativity of the page. 
+## Icons
+* Another feature of creating page Icons. Icons can define a page, and enhance the creativity of your page.
+
+7. On the top left of the page, click the "Add Icons", and select the icon(s) you want.
+![AddIcons](/docs/Assets/CreateAPage.png)
 
 
-![drawing](https://docs.google.com/drawings/d/12345/export/png) 
-9. Cover/ Comments (optional)
+
+
+## Cover/ Comments (optional)
 * Additionally, in creating a page, you have the option to add a cover on the top of the page and have a comment about the page right under the name. ‘
   
 
-
-
-![drawing](https://docs.google.com/drawings/d/12345/export/png)
-10. Saving Changes
+## Saving Changes
 * Once you feel like you are ready to create the page, you can simply press enter and exit out of the new page screen. 
 
 Although this may be a basic guideline on creating a page, there are many possibilities in creating a page that works best for you. 
