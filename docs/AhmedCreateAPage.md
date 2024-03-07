@@ -58,7 +58,7 @@ Notion homepage
 
 6. Click the import button under the "Add New". Then Select the app you would like to import from.
 ![Import](/docs/Assets/CreateAPage.png)
-![Import Files](/docs/Assets/ImportFiles.png)
+![Import Files](/docs/Assets/importFiles.png)
 
 
 6. Templates
