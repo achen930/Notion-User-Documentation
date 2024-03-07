@@ -77,19 +77,32 @@ Notion homepage
 ## Icons
 * Another feature of creating page Icons. Icons can define a page, and enhance the creativity of your page.
 
-7. On the top left of the page, click the "Add Icons", and select the icon(s) you want.
+8. On the top left of the page, click the "Add Icons", and select the icon(s) that you want.
 ![AddIcons](/docs/Assets/CreateAPage.png)
+![Icons](/docs/Assets/Icons.png)
 
 
 
 
-## Cover/ Comments (optional)
-* Additionally, in creating a page, you have the option to add a cover on the top of the page and have a comment about the page right under the name. ‘
+## Cover/ Comments 
+* Additionally, in creating a page, you have the option to add a cover on the top of the page and have a comment about the page right under the name.
+
+9.To add a cover, and a comment click on the add cover/add comment right above the name of the page.  
+![AddCover](/docs/Assets/CreateAPage.png)
+
   
 
 ## Saving Changes
-* Once you feel like you are ready to create the page, you can simply press enter and exit out of the new page screen. 
+10. Once you feel like you are ready to create the page, you can simply press enter and exit out of the new page screen. 
 
 Although this may be a basic guideline on creating a page, there are many possibilities in creating a page that works best for you. 
 
+## Conclusion
+By the end of the section, you should have learned the following topics:
 
+- [x] Logging into Notion
+- [x] Creating a page
+- [x] learning the Customization Features of creating a page
+
+Well Done! Lets move on to creating a new Database: 
+![Creating A Database](/docs/EvannCreateADatabase)
