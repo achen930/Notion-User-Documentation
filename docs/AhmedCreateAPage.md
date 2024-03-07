@@ -69,9 +69,10 @@ Notion homepage
 ![Templates](/docs/Assets/Templates.png)
 
 ## Empty Page
-7. Empty Page (optional)
-7. Optionally, if you want to create an empty page, right under the name of the page, click on "Empty Page"
-
+* Optionally, If you want a simple empty page with nothinng on it, you can create one in Notion.
+7. Right under the name of the page, click on "Empty Page"./
+![Empty Page Button](docs/Assets/CreateAPage.png)
+![Empty Page](/docs/Assets/EmptyPage.png)
 
 ![drawing](https://docs.google.com/drawings/d/12345/export/png)
 8. Icons
