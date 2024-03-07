@@ -56,13 +56,15 @@ Notion homepage
 * When creating a page you can import data from other apps like trello, csv, google docs, and word
 * Importing files are important for storing your data in a reliable page.
 
-6. Click the import button under the "Add New". Then Select the app you would like to import from.
+5. Click the import button under the "Add New". Then Select the app you would like to import from.
 ![Import](/docs/Assets/CreateAPage.png)
 ![Import Files](/docs/Assets/importFiles.png)
 
 
-6. Templates
-* Like Ai, If you have no clue on what you want your page to look like or you want a specific layout, you can access already created pages that notion offers
+## Templates
+* Like Ai, If you have no clue on what you want your page to look like or you want a specific layout, you can access already created pages that notion offers.
+
+6. Below, the import buttton, left-click on the templates button 
 
 
 
