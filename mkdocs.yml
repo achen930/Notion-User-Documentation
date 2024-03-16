@@ -1,4 +1,8 @@
 site_name: Notion User Documentation
+nav:
+  - Home: index.md
+  - Creating a Notion Page: createAPage.md
+  - Creating a Notion Calendar: createACalendar.md
 theme: 
   name: material
   features:
@@ -53,4 +57,4 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 copyright: 
-  © 2024 <a href="https://github.com" target="_blank" rel="noopener">Annabelle Chen</a>
+  © 2024 <a href="https://github.com" target="_blank" rel="noopener">Ahmed Calif, Annabelle Chen, Evann Li, Manraj Bains</a>
