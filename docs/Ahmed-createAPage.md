@@ -23,7 +23,7 @@ Notion homepage
 
 2. Click "New Page" located on the sidebar in the left side of the Notion homepage.
 
-![Sidebar](assets/SideBar.png)
+![Sidebar](assets/PageSideBar.png)
 
 
 
