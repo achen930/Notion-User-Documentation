@@ -1,8 +1,9 @@
 site_name: Notion User Documentation
 nav:
   - Home: index.md
-  - Creating a Notion Page: createAPage.md
-  - Creating a Notion Calendar: createACalendar.md
+  - Creating a Notion Page: Ahmed-createAPage.md
+  - Creating a Notion Calendar: Annabelle-createACalendar.md
+  - Creating a Notion Database: Evann-createADatabase.md
 theme: 
   name: material
   features:

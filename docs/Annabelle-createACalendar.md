@@ -142,6 +142,5 @@ By the end of this section, you will have successfully learned the following:
 
 Congratulations you have learned how to create a Notion Calendar 🥳. You can click on the links below to learn how to create a Notion Page or Notion Database:
 
-[Creating a Notion Page](createAPage.md)
-
-[Creating a Notion Database]()
+[Creating a Notion Page](Ahmed-createAPage.md)  
+[Creating a Notion Database](Evann-createADatabase.md)
