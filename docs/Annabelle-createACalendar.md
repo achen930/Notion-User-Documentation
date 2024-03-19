@@ -16,7 +16,7 @@ In this section, we will walk through creating a Notion Calendar account.
 
 2. Navigate to your Notion sidebar
 
-    ![Calendar button on Notion Page Sidebar](./assets/Sidebar.png)
+    ![Calendar button on Notion Page Sidebar](./Assets/Sidebar.png)
 
     Open Notion and navigate to your notion sidebar.
 
@@ -26,19 +26,19 @@ In this section, we will walk through creating a Notion Calendar account.
 
 4. Sign in with Google Account
 
-    ![Sign in with Google Popup](./assets/SignInWithGoogle.png)
+    ![Sign in with Google Popup](./Assets/SignInWithGoogle.png)
 
     A pop-up window appears with the option to *Sign in with Google*. Left click on the *Sign in with Google* button.
 
 5. Sign in to Google Account
 
-    ![Select Google Account to Continue to Notion](./assets/ChooseGoogleAccount.png)
+    ![Select Google Account to Continue to Notion](./Assets/ChooseGoogleAccount.png)
 
     You'll be directed to a page titled *Sign in to continue to Notion Calendar*. Enter your Google email and password. Left click on the *Continue* button to allow Google to share information.
 
 6. Allow Google to share your Google account information
 
-    ![Continue to Notion Calendar Popup](./assets/ContinueToNotionCalendar.png)
+    ![Continue to Notion Calendar Popup](./Assets/ContinueToNotionCalendar.png)
 
     Left click on the *Continue* button to allow Google to share your name, email address, language preference, and profile picture with Notion Calendar.
 
@@ -47,7 +47,7 @@ In this section, we will walk through creating a Notion Calendar account.
     !!! info "Info"
         Ensure at least *View your calendar settings*, *View and edit events on all your calendars*, and *See, edit, share, and permanently delete all the calendars you can access using Google Calendar* are selected.
 
-    ![Notion Calendar Additional Access Options](./assets/NotionAdditionalAccess.png)
+    ![Notion Calendar Additional Access Options](./Assets/NotionAdditionalAccess.png)
     
     Select any other options you would like Notion Calendar to have access to.
     Left click on the *Continue* button to proceed to the next step.
@@ -63,13 +63,13 @@ Once you have succesfully created a Notion Calendar account, you can move on to 
 
 1. Create a new Notion Calendar event
 
-    ![Create Notion New Event Popup](./assets/NewEvent.png)
+    ![Create Notion New Event Popup](./Assets/NewEvent.png)
 
     Right click on the date and around the relative time of the event. Left click on the *Create event* button from the options provided. A pop-up window will appear on the right side of your Notion Calendar to enter event details.
 
 2. Enter Notion Calendar event details
 
-    ![Notion Calendar New Event Options](./assets/EventOptions.png)
+    ![Notion Calendar New Event Options](./Assets/EventOptions.png)
 
     Once you have left clicked on the *Create event* button, a pop-up window will appear on the right side of your Notion Calendar, allowing you to enter various event details. Here's what you can input:
 
@@ -92,7 +92,7 @@ Once you have succesfully created a Notion Calendar account, you can move on to 
 
 3. Review and confirm event details
 
-    ![Successful Event Creation](./assets/EventCreated.png)
+    ![Successful Event Creation](./Assets/EventCreated.png)
 
     Once you are satisfied with the details, simply close the event creation window. Your event will be automatically saved and added to your Notion Calendar. You can now view your newly created event on your calendar and proceed with any additional tasks or events.
 
