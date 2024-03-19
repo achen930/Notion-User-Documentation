@@ -14,8 +14,8 @@
     <td>
       <ol>
         <li>Enter your email address on the <a href="https://www.notion.so/login">Login page</a>.</li>
-        <li>Click on the *Forgot Password?* button to send a reset link.</li>
-        <li>Follow the reset link which guides you to *Settings and Members* in Notion.</li>
+        <li>Click on the <em>Forgot Password?</em> button to send a reset link.</li>
+        <li>Follow the reset link which guides you to <em>Settings and Members</em> in Notion.</li>
         <li>Choose a new password. Without a new password, the password is removed and a temporary code must be used.</li>
       </ol>
     </td>
@@ -25,11 +25,11 @@
     <td>You have lost access to the email associated with your Notion account.</td>
     <td>
       <ol>
-        <li>On the login page, left click on the *Resend Link* button.</li>
-        <li>In Notion, go to *Settings and Members* located in the left sidebar.</li>
-        <li>Navigate to *My Account* → *Change Email*.</li>
+        <li>On the login page, left click on the <em>Resend Link</em> button.</li>
+        <li>In Notion, go to <em>Settings and Members</em> located in the left sidebar.</li>
+        <li>Navigate to <em>My Account</em> → <em>Change Email</em>.</li>
         <li>Enter your permanent password and continue.</li>
-        <li>Enter a new email and left click on the *Send Verification Code* button.</li>
+        <li>Enter a new email and left click on the <em>Send Verification Code</em> button.</li>
         <li>Check your new email for the verification code.</li>
       </ol>
     </td>
@@ -80,7 +80,7 @@
     <td>Notion Calendar events are not synchronizing with Google Calendar.</td>
     <td>
       <ol>
-        <li>Ensure your Google account is correctly integrated. <a href="https://www.notion.so/help/connecting-notion-with-other-apps">Learn more about integration</a>.</li>
+        <li>Ensure your Google account is correctly integrated. <a href="https://www.notion.so/help/embed-and-connect-other-apps">Learn more about integration</a>.</li>
         <li>Check permissions to access your Google Calendar.</li>
         <li>If already set up, disconnect and reconnect your Google account.</li>
       </ol>
@@ -132,7 +132,7 @@
     <td>Data import from another app fails or imports incorrectly.</td>
     <td>
       <ol>
-        <li>Verify the format of the file to ensure compatibility with Notion. <a href="https://www.notion.so/help/importing-exporting">See supported formats</a>.</li>
+        <li>Verify the format of the file to ensure compatibility with Notion. <a href="https://www.notion.so/help/category/import-export-and-integrate">See supported formats</a>.</li>
         <li>For large files, break down the import into smaller segments to avoid timeouts.</li>
       </ol>
     </td>
