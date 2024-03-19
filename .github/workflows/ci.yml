@@ -1,5 +1,5 @@
 name: ci
-on: 
+on:
   push:
     branches:
       - master
@@ -10,24 +10,13 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
         with: 
-          python-version: '3.x'
-
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with: 
+          python-version: 3.x
+      - uses: actions/cache@v2
+        with:
+          key: ${{ github.ref }}
           path: .cache
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install mkdocs-material
-
-      - name: Deploy with MkDocs
-        run: mkdocs gh-deploy --force
+      - run: pip install mkdocs-material
+      - run: mkdocs gh-deploy --force
