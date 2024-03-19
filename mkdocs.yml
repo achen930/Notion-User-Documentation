@@ -1,13 +1,14 @@
 site_name: Notion User Documentation
 nav:
-  - Home: index.md
+  - Home: Annabelle-index.md
   - Creating a Notion Page: Ahmed-createAPage.md
   - Creating a Notion Calendar: Annabelle-createACalendar.md
   - Creating a Notion Database: Evann-createADatabase.md
+  - Troubleshooting: Manraj-Troubleshoot.md
+  - Glossary: Manraj-Glossary.md
 theme: 
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -23,22 +24,13 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
       primary: blue grey
-      accent: purple
+      accent: blue
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: teal
-      accent: lime
-
-extra:
-  social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com
+      primary: deep purple
+      accent: grey blue
 
 markdown_extensions:
   - pymdownx.highlight:
@@ -52,6 +44,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.mark
+  - tables
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji

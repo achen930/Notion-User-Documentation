@@ -44,6 +44,16 @@ The main sections of this documentation are outlined below:
 
 ## Typographical Conventions
 
+1. **Buttons and Menu Options:** Buttons and Menu options will be indicated using italicized text. See an example of this below:
+    
+    Left click on the *New Page* button.
+
+2. **Keyboard Inputs:** Keyboard inputs such as pressing keys or combinations will be represented using enclosed angle brackets. See an example of this below:
+
+    Press &lt;Enter&gt; on your keyboard to save your changes.
+
+3. **Commands:** Commands that you need to enter in Notion will be formatted similar to: ``` /command ```.
+
 ## Notes and Warning Messages
 
 Messages will be categorized according to their importance:

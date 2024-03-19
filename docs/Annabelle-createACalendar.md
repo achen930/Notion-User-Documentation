@@ -5,7 +5,7 @@
 This section will focus on helping you set up Notion Calendar. Notion Calendar is a versatile scheduling tool within the Notion workspace. Notion Calendar offers customizable views, colour-coding, and reminders to manage events efficiently. With seamless integration and collaborative features, it is ideal for organizing tasks and coordinating with teams.
 
 ## Pre-requisites:
-- **Notion account:** sign up for a Notion account [here](https://www.notion.so/signup) .
+- **Notion account:** sign up for a Notion account [here](https://www.notion.so/signup).
 - **Google account:** follow the instructions [here](https://support.google.com/accounts/answer/27441?hl=en) to create a Google account.
 
 ## Setting up Notion Calendar
@@ -22,25 +22,25 @@ In this section, we will walk through creating a Notion Calendar account.
 
 3. Go to Notion Calendar
 
-    Left click on *Calendar* on your Notion page sidebar.
+    Left click on the *Calendar* button on your Notion page sidebar.
 
 4. Sign in with Google Account
 
     ![Sign in with Google Popup](assets/SignInWithGoogle.png)
 
-    A pop-up window appears with the option to *Sign in with Google*. Left click on *Sign in with Google*.
+    A pop-up window appears with the option to *Sign in with Google*. Left click on the *Sign in with Google* button.
 
 5. Sign in to Google Account
 
     ![Select Google Account to Continue to Notion](assets/ChooseGoogleAccount.png)
 
-    You'll be directed to a page titled *Sign in to continue to Notion Calendar*. Enter your Google email and password. Left click on *Continue* to allow Google to share information.
+    You'll be directed to a page titled *Sign in to continue to Notion Calendar*. Enter your Google email and password. Left click on the *Continue* button to allow Google to share information.
 
 6. Allow Google to share your Google account information
 
     ![Continue to Notion Calendar Popup](assets/ContinueToNotionCalendar.png)
 
-    Left click *Continue* to allow Google to share your name, email address, language preference, and profile picture with Notion Calendar.
+    Left click on the *Continue* button to allow Google to share your name, email address, language preference, and profile picture with Notion Calendar.
 
 7. Allow Access to Google Calendar (if necessary)
 
@@ -50,7 +50,7 @@ In this section, we will walk through creating a Notion Calendar account.
     ![Notion Calendar Additional Access Options](assets/NotionAdditionalAccess.png)
     
     Select any other options you would like Notion Calendar to have access to.
-    Left-click on "Continue" to proceed to the next step.
+    Left click on the *Continue* button to proceed to the next step.
 
 !!! success "Success"
     If access was successfully allowed, you will see a Notion Calendar page displaying the week of the current date.
@@ -65,13 +65,13 @@ Once you have succesfully created a Notion Calendar account, you can move on to 
 
     ![Create Notion New Event Popup](assets/NewEvent.png)
 
-    Right-click on the date and around the relative time of the event. Left click on *Create event* from the options provided. A pop-up window will appear on the right side of your Notion Calendar to enter event details.
+    Right click on the date and around the relative time of the event. Left click on the *Create event* button from the options provided. A pop-up window will appear on the right side of your Notion Calendar to enter event details.
 
 2. Enter Notion Calendar event details
 
     ![Notion Calendar New Event Options](assets/EventOptions.png)
 
-    Once you have left clicked on *Create event*, a pop-up window will appear on the right side of your Notion Calendar, allowing you to enter various event details. Here's what you can input:
+    Once you have left clicked on the *Create event* button, a pop-up window will appear on the right side of your Notion Calendar, allowing you to enter various event details. Here's what you can input:
 
     - **Title:** Enter a title for your event.
     - **Duration:** Specify the duration of the event.
