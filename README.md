@@ -68,25 +68,25 @@ Our documentation aims to equip you with the necessary insights and tools to pro
 <figure>
   <figcaption>Specifies actions that may cause an error or will cause the application to crash.</figcaption>
   <img
-  src="docs/assets/images/danger.png"
+  src="docs/assets/danger.png"
   alt="The danger admonition.">
 </figure>
 <figure>
   <figcaption>Specifies content that must be read before proceeding.</figcaption>
   <img
-  src="docs/pages/assets/warning.png"
+  src="docs/assets/warning.png"
   alt="The warning admonition.">
 </figure>
 <figure>
   <figcaption>Indicates additional information or tips.</figcaption>
   <img
-  src="docs/pages/assets/info.png"
+  src="docs/assets/info.png"
   alt="The info admonition.">
 </figure>
 <figure>
   <figcaption>Indicates what success looks like.</figcaption>
   <img
-  src="docs/pages/assets/success.png"
+  src="docs/assets/success.png"
   alt="The success admonition.">
 </figure>
 
